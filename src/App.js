@@ -82,7 +82,7 @@ function Petals() {
 }
 
 // ── Countdown / Gate ───────────────────────────────────────────────────
-const BIRTHDAY = new Date('2026-06-18T00:00:00');
+const BIRTHDAY = new Date('2026-06-22T00:00:00');
 
 function useCountdown() {
   const calc = () => {
