@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0a0608"/>
+  <g transform="translate(32,34)">
+    <!-- petals -->
+    <circle cx="0" cy="-10" r="9" fill="#c8566e"/>
+    <circle cx="-9" cy="-2" r="9" fill="#d4af37" opacity="0.9"/>
+    <circle cx="9" cy="-2" r="9" fill="#d4af37" opacity="0.9"/>
+    <circle cx="-6" cy="8" r="8" fill="#c8566e" opacity="0.95"/>
+    <circle cx="6" cy="8" r="8" fill="#c8566e" opacity="0.95"/>
+    <circle cx="0" cy="0" r="7" fill="#f2c4ce"/>
+    <!-- stem -->
+    <rect x="-1.5" y="14" width="3" height="16" fill="#3a6b4a"/>
+    <path d="M -1.5 22 Q -8 22 -8 26" stroke="#3a6b4a" stroke-width="2.5" fill="none"/>
+    <ellipse cx="-9" cy="27" rx="5" ry="2.5" fill="#3a6b4a" transform="rotate(-20 -9 27)"/>
+  </g>
+</svg>
